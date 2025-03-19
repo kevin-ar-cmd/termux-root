@@ -2,7 +2,9 @@
 > <b>This is not like linux real root</b>. Root is an automated tool which help you to gain to access of fake root privileges and real root privileges without rooting your device. You don't need to install any other OS to gain the root privileges in your termux. This tool(ROOT) is specifically made for termux and termux users. This tool will also help you to gain the look of Kali-Linux in your termux with root access.<br><br>
 
 <centre>
-<img src="https://github.com/kevin-ar-cmd/termux-root/root/blob/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/kevin-ar-cmd/termux-root/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
+  </div>
 </centre>
 
 # Fake Root Privileges
