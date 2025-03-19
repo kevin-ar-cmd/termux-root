@@ -23,7 +23,7 @@ This tool also helps to access the real root privileges in termux. Which is more
 You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
 
 # One line Installation
-<pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.dev/kevin-ar-cmd/termux-root</pre>
+<pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.dev/kevin-ar-cmd/termux-root.git</pre>
 
 # Uninstall
 You can uninstall root with the following commands wihch are shown here:
